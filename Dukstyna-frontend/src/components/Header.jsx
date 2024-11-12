@@ -13,11 +13,11 @@ const Header = () => {
             <ul>
                 
                 <li><Link to="/"></Link>Naujienos</li>
-                <li><Link to="/Veiklos sritys"></Link>Veiklos sritys</li>
-                <li><Link to="/Pagalba mokiniui"></Link>Pagalba mokiniui</li>
-                <li><Link to="/Finansinės ataskaitos"></Link>Finansinės ataskaitos</li>
-                <li><Link to="/Karjeros ugdymo centras"></Link>Karjeros ugdymo centras</li>
-                <li><Link to="/Struktūra ir kontaktai"></Link>Struktūra ir kontaktai</li>
+                <li><Link to="/Veiklossritys"></Link>Veiklos sritys</li>
+                <li><Link to="/Pagalbamokiniui"></Link>Pagalba mokiniui</li>
+                <li><Link to="/Finansinėsataskaitos"></Link>Finansinės ataskaitos</li>
+                <li><Link to="/Karjerosugdymo centras"></Link>Karjeros ugdymo centras</li>
+                <li><Link to="/Struktūrairkontaktai"></Link>Struktūra ir kontaktai</li>
             </ul>
         </div>
     </div>
